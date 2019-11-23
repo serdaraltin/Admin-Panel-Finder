@@ -1,0 +1,36 @@
+c:\users\deadsound\documents\visual studio 2010\Projects\Panel Bulucu\Panel Bulucu\obj\x86\Debug\Panel_Bulucu.Properties.Resources.resources
+c:\users\deadsound\documents\visual studio 2010\Projects\Panel Bulucu\Panel Bulucu\obj\x86\Debug\Panel Bulucu.csproj.GenerateResource.Cache
+c:\users\deadsound\documents\visual studio 2010\Projects\Panel Bulucu\Panel Bulucu\bin\Debug\Panel Bulucu.exe
+c:\users\deadsound\documents\visual studio 2010\Projects\Panel Bulucu\Panel Bulucu\bin\Debug\Panel Bulucu.pdb
+c:\users\deadsound\documents\visual studio 2010\Projects\Panel Bulucu\Panel Bulucu\obj\x86\Debug\Panel Bulucu.exe
+c:\users\deadsound\documents\visual studio 2010\Projects\Panel Bulucu\Panel Bulucu\obj\x86\Debug\Panel Bulucu.pdb
+C:\Users\DeadSound\documents\visual studio 2010\Projects\Panel Bulucu\Panel Bulucu\obj\x86\Debug\Panel Bulucu.csprojResolveAssemblyReference.cache
+C:\Users\DeadSound\documents\visual studio 2010\Projects\Panel Bulucu\Panel Bulucu\obj\x86\Debug\Panel_Bulucu.PaneBulucu.resources
+C:\Users\DeadSound\documents\visual studio 2010\Projects\Panel Bulucu\Panel Bulucu\obj\x86\Debug\Panel_Bulucu.Hakkında.resources
+C:\Users\Root\Documents\Visual Studio 2010\Projects\Panel Bulucu\Panel Bulucu\obj\x86\Debug\Panel Bulucu.exe
+C:\Users\Root\Documents\Visual Studio 2010\Projects\Panel Bulucu\Panel Bulucu\obj\x86\Debug\Panel Bulucu.pdb
+C:\Users\Root\Documents\Visual Studio 2010\Projects\Panel Bulucu\Panel Bulucu\bin\Debug\Panel Bulucu.exe
+C:\Users\Root\Documents\Visual Studio 2010\Projects\Panel Bulucu\Panel Bulucu\bin\Debug\Panel Bulucu.pdb
+C:\Users\Root\Documents\Visual Studio 2010\Projects\Panel Bulucu\Panel Bulucu\obj\x86\Debug\Panel Bulucu.csprojResolveAssemblyReference.cache
+C:\Users\Root\Documents\Visual Studio 2010\Projects\Panel Bulucu\Panel Bulucu\obj\x86\Debug\Panel_Bulucu.Hakkında.resources
+C:\Users\Root\Documents\Visual Studio 2010\Projects\Panel Bulucu\Panel Bulucu\obj\x86\Debug\Panel_Bulucu.PaneBulucu.resources
+C:\Users\Root\Documents\Visual Studio 2010\Projects\Panel Bulucu\Panel Bulucu\obj\x86\Debug\Panel_Bulucu.Properties.Resources.resources
+C:\Users\Root\Documents\Visual Studio 2010\Projects\Panel Bulucu\Panel Bulucu\obj\x86\Debug\Panel Bulucu.csproj.GenerateResource.Cache
+C:\Users\Root\Documents\Visual Studio 2010\Projects\DeadSound Old Project\Panel Bulucu\Panel Bulucu\obj\x86\Debug\Panel Bulucu.exe
+C:\Users\Root\Documents\Visual Studio 2010\Projects\DeadSound Old Project\Panel Bulucu\Panel Bulucu\obj\x86\Debug\Panel Bulucu.pdb
+C:\Users\Root\Documents\Visual Studio 2010\Projects\DeadSound Old Project\Panel Bulucu\Panel Bulucu\bin\Debug\Panel Bulucu.exe
+C:\Users\Root\Documents\Visual Studio 2010\Projects\DeadSound Old Project\Panel Bulucu\Panel Bulucu\bin\Debug\Panel Bulucu.pdb
+C:\Users\Root\Documents\Visual Studio 2010\Projects\DeadSound Old Project\Panel Bulucu\Panel Bulucu\obj\x86\Debug\Panel Bulucu.csprojResolveAssemblyReference.cache
+C:\Users\Root\Documents\Visual Studio 2010\Projects\DeadSound Old Project\Panel Bulucu\Panel Bulucu\obj\x86\Debug\Panel_Bulucu.Hakkında.resources
+C:\Users\Root\Documents\Visual Studio 2010\Projects\DeadSound Old Project\Panel Bulucu\Panel Bulucu\obj\x86\Debug\Panel_Bulucu.PaneBulucu.resources
+C:\Users\Root\Documents\Visual Studio 2010\Projects\DeadSound Old Project\Panel Bulucu\Panel Bulucu\obj\x86\Debug\Panel_Bulucu.Properties.Resources.resources
+C:\Users\Root\Documents\Visual Studio 2010\Projects\DeadSound Old Project\Panel Bulucu\Panel Bulucu\obj\x86\Debug\Panel Bulucu.csproj.GenerateResource.Cache
+C:\Users\Main\Documents\Visual Studio 2010\Projects\Panel Bulucu\Panel Bulucu\obj\x86\Debug\Panel Bulucu.exe
+C:\Users\Main\Documents\Visual Studio 2010\Projects\Panel Bulucu\Panel Bulucu\obj\x86\Debug\Panel Bulucu.pdb
+C:\Users\Main\Documents\Visual Studio 2010\Projects\Panel Bulucu\Panel Bulucu\obj\x86\Debug\Panel Bulucu.csprojResolveAssemblyReference.cache
+C:\Users\Main\Documents\Visual Studio 2010\Projects\Panel Bulucu\Panel Bulucu\obj\x86\Debug\Panel_Bulucu.Hakkında.resources
+C:\Users\Main\Documents\Visual Studio 2010\Projects\Panel Bulucu\Panel Bulucu\obj\x86\Debug\Panel_Bulucu.PaneBulucu.resources
+C:\Users\Main\Documents\Visual Studio 2010\Projects\Panel Bulucu\Panel Bulucu\obj\x86\Debug\Panel_Bulucu.Properties.Resources.resources
+C:\Users\Main\Documents\Visual Studio 2010\Projects\Panel Bulucu\Panel Bulucu\obj\x86\Debug\Panel Bulucu.csproj.GenerateResource.Cache
+C:\Users\Main\Documents\Visual Studio 2010\Projects\Panel Bulucu\Panel Bulucu\bin\Debug\Panel Bulucu.exe
+C:\Users\Main\Documents\Visual Studio 2010\Projects\Panel Bulucu\Panel Bulucu\bin\Debug\Panel Bulucu.pdb
